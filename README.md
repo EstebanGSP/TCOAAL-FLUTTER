@@ -2,6 +2,12 @@
 
 A new Flutter project.
 
+<p align="center">
+  <img src="assets/bannermenu.jpg" width="100%" alt="Banner TCOAAL" />
+</p>
+
+<h1 align="center">🕯️ The Coffin of Andy and Leyley - Flutter Project</h1>
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
